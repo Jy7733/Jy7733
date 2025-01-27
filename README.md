@@ -1,4 +1,4 @@
-## Hi there 👋
+# Jaeyoung You
 
 <!--
 **Jy7733/Jy7733** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -30,4 +30,7 @@ Here are some ideas to get you started:
 <img src = "https://img.shields.io/badge/github-%23181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 
+##
 
+![Jy7733's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jy7733&theme=default&show_icons=true)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jy7733)](https://solved.ac/jy7733)
